@@ -1,2 +1,5 @@
 .DS_Store
 /Results/
+/Data/
+/Manuscripts/
+*.docx*
